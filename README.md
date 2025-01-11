@@ -89,3 +89,34 @@ OUTPUT:
 Enter the first number: 12
 
 Enter the second number: 4
+Enter the third number: 7
+
+Arithmetic Operations
+
+Addition (num1 + num2): 16
+
+Subtraction (num1 - num2): 8
+
+Multiplication (num1 * num2): 48
+
+Division (num1 / num2): 3
+
+Modulus (num1 % num2): 0
+
+Relational Operations
+
+num1 > num2: true, num1 < num2: false, num1 == num2: false
+
+num1 != num3: true, num2 >= num3: false, num3 <= num1: true
+
+Logical Operations
+
+(num1 > num2) && (num2 > num3): false
+
+(num1 > num2) || (num2 > num3): true
+
+!(num1 > num2): false
+
+Ternary Operator
+
+Largest number is: num1 is the largest
